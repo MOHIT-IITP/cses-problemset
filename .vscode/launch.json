@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mohit_iitp/moLib/moGit/cses-problemset",
+      "program": "/Users/mohit_iitp/moLib/moGit/cses-problemset/build/Debug/outDebug"
+    }
+  ]
+}
